@@ -1,0 +1,9 @@
+[info] ListsSuite:
+[info] - one plus one is two
+[info] - one plus one is three? *** FAILED ***
+[info]   org.scalatest.exceptions.TestFailedException was thrown. (ListsSuite.scala:51)
+[info] - details why one plus one is not three *** FAILED ***
+[info]   2 did not equal 3 (ListsSuite.scala:76)
+[info] - intNotZero throws an exception if its argument is 0
+[info] - sum of a few numbers
+[info] - max of a few numbers
